@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("You have been permanently banned from Blox Fruit")
+game.Players.LocalPlayer:Kick("You were kicked from this experience.You have permanently banned.")
